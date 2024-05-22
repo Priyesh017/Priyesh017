@@ -11,4 +11,6 @@ Greetings! 👋 I'm Priyesh Kumar Saha<br>Full Stack Web Developer | Tech Enthus
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priyesh017&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyesh017&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Thanks for stopping by! If you share my passion for technology and creativity, let's build something amazing together. 🚀
+Thanks again for visiting, and I look forward to connecting with you! 🚀
+Happy coding! 😊
+
